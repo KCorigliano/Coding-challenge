@@ -1,0 +1,85 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+}
+
+.container{
+  width: 63%;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  border-radius: 15px;
+}
+
+.container2{
+  width: 80%;
+  margin: auto;
+}
+
+.logo{
+  width: 20%;
+  margin-top: 10%;
+}
+
+#title{
+  color: lime;
+  font-size: 24px;
+  font-family: arial;
+}
+
+#button{
+  height: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: lime;
+}
+
+input{
+  font-size: 8px;
+  font-family: arial;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline-block;
+}
+
+.main{
+  margin-top: 2%;
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+div{
+  padding-bottom: 5px;
+  color: white;
+  font-size: 11px;
+  font-family: arial;
+  display: block;
+}
+
+#carica1{
+  height: 15px;
+  width: 35%;
+  border-radius: 3px;
+  border-color: orange;
+  margin-left: 0%;
+  background-color: orange;
+}
+
+#carica2{
+  height: 15px;
+  width: 60%;
+  border-radius: 3px;
+  border-color: green;
+  margin-left: 0%;
+  background-color: green;
+}
+
+#carica3{
+  height: 15px;
+  width: 20%;
+  border-radius: 3px;
+  border-color: darkred;
+  margin-left: 0%;
+  background-color: red;
+}
